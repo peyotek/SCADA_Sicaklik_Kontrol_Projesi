@@ -13,10 +13,10 @@ Bu proje, Siemens TIA Portal & WinCC kullanılarak geliştirilmiş bir SCADA ekr
 ## 🖼️ Ekran Görüntüleri
 
 ### Normal Çalışma
-![Panel Normal](screenshots/panel1.png)
+![Panel Normal](panel1.png)
 
 ### Alarm Durumu
-![Panel Alarm](screenshots/panel2_alarm.png)
+![Panel Alarm](panel2_alarm.png)
 
 ## 🔧 Kullanılan Teknolojiler
 - Siemens TIA Portal vXX
