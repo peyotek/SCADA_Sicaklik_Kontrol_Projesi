@@ -11,11 +11,12 @@ Bu proje, Siemens TIA Portal & WinCC kullanılarak geliştirilmiş bir SCADA ekr
   - Kırmızı ışıklı görsel alarm aktif olur (graphic list ile)
   
 ## 🖼️ Ekran Görüntüleri
-<img src="screenshots/panel.png" width="400"/>  
-*Normal çalışma ekranı*
 
-<img src="screenshots/panel_alarm.png" width="400"/>  
-*Alarm durumu: 75°C üstü sıcaklıkta görsel uyarı*
+### Normal Çalışma
+![Panel Normal](screenshots/panel1.png)
+
+### Alarm Durumu
+![Panel Alarm](screenshots/panel2_alarm.png)
 
 ## 🔧 Kullanılan Teknolojiler
 - Siemens TIA Portal vXX
